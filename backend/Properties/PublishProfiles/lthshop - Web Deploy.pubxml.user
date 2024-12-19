@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMTEmNhr1hke1ybK0NgsrTAAAAAACAAAAAAAQZgAAAAEAACAAAAAStaQbi9OVxIvjfpZPGxcFvmVM2xeaeL90XHVIIZRbdgAAAAAOgAAAAAIAACAAAADcqPLfNVaasg2QA1KnJamLJg5+evrBRqollkuoK+S/MIAAAADGSyLM8ZW6zDvYtWBwW/5Fw8/pi9NZfQ+6t44n6cadD8Ysw2WIHwirGipB/aPy6B9iK2ppTYQZgopDpkqdlCzKMu+bN76HkR5Utt5ZiBOTIvFHc+gMvuCcOROPeXMTq4l+augpjUdcL5GamI++tmWYp5JM2vH5teOAh16SV4sUy0AAAAA8CWwzOG6b+judwf1YiRs9Tx+aFOaIcqF2ZJva/1TYha6nc9QUzKw1+M0BSBy0YpUBqwlQrvwaWfzwqOkbQqC5</EncryptedPassword>
+    <History>True|2024-12-05T19:34:44.5892644Z||;True|2024-12-06T02:30:55.3257720+07:00||;True|2024-12-06T02:18:31.8872356+07:00||;True|2024-12-06T01:29:17.5725447+07:00||;True|2024-12-04T04:56:24.9528094+07:00||;True|2024-12-04T04:12:30.3035933+07:00||;True|2024-12-04T04:11:54.4835213+07:00||;True|2024-11-27T19:28:32.5602202+07:00||;False|2024-11-27T19:27:48.8775398+07:00||;True|2024-11-27T19:22:35.4638901+07:00||;True|2024-11-27T19:06:26.2627832+07:00||;True|2024-11-27T18:13:00.0503078+07:00||;True|2024-11-27T18:11:41.1803262+07:00||;True|2024-11-27T17:54:44.1254769+07:00||;True|2024-11-27T17:50:54.4434933+07:00||;False|2024-11-27T17:48:20.3879880+07:00||;True|2024-11-27T17:25:14.9169173+07:00||;True|2024-11-27T17:16:04.1330946+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="backend.Entities.EcommerceDBContext">
+      <Value>Data Source=lthshop.database.windows.net,1433%3bInitial Catalog=lthshop%3bUser ID=lthshop%3bPassword=Ecommercewebsite2024</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

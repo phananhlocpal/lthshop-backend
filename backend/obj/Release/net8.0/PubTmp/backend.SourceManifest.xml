@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\ecommerce-shoes-store\backend\backend\obj\Release\net8.0\PubTmp\Out\" />
+  <dbfullsql path="D:\ecommerce-shoes-store\backend\backend\obj\Release\net8.0\PubTmp\EFSQLScripts\backend.Entities.EcommerceDBContext.sql" />
+</sitemanifest>

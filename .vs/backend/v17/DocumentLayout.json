@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\repositories\\entitiesrepo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\repositories\\entitiesrepo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\repositories\\entitiesrepo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\repositories\\entitiesrepo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\repositories\\entitiesrepo\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\repositories\\entitiesrepo\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\entities\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\entities\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\migrations\\ecommercedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\migrations\\ecommercedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|c:\\users\\lphan\\documents\\paul\u0027s workspace\\my project\\lth-store\\backend\\backend\\repositories\\entitiesrepo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE8FB79-1353-4F3E-967C-B308FC4D4785}|backend\\backend.csproj|solutionrelative:backend\\repositories\\entitiesrepo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAA7wFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:04:53.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T02:26:37.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Repositories\\EntitiesRepo\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\EntitiesRepo\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Repositories\\EntitiesRepo\\GenericRepo.cs",
+              "RelativeToolTip": "backend\\Repositories\\EntitiesRepo\\GenericRepo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:07:38.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Repositories\\EntitiesRepo\\IRepo.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\EntitiesRepo\\IRepo.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Repositories\\EntitiesRepo\\IRepo.cs",
+              "RelativeToolTip": "backend\\Repositories\\EntitiesRepo\\IRepo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:05:41.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T15:09:58.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:25:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "backend\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Entities\\Product.cs",
+              "RelativeToolTip": "backend\\Entities\\Product.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:59:54.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "backend\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "backend\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:59:21.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "backend\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:16:39.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Repositories\\EntitiesRepo\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\EntitiesRepo\\CustomerRepo.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Repositories\\EntitiesRepo\\CustomerRepo.cs",
+              "RelativeToolTip": "backend\\Repositories\\EntitiesRepo\\CustomerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:48:25.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Profiles\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "backend\\Profiles\\OrderProfile.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Profiles\\OrderProfile.cs",
+              "RelativeToolTip": "backend\\Profiles\\OrderProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:41:21.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "backend\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Entities\\Order.cs",
+              "RelativeToolTip": "backend\\Entities\\Order.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:09:28.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "backend\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "backend\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:02:30.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "backend\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAUwKYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:30:36.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EcommerceDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "RelativeToolTip": "backend\\Migrations\\EcommerceDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:27:52.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EcommerceDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Entities\\EcommerceDBContext.cs",
+              "RelativeDocumentMoniker": "backend\\Entities\\EcommerceDBContext.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Entities\\EcommerceDBContext.cs",
+              "RelativeToolTip": "backend\\Entities\\EcommerceDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:28:16.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Repositories\\EntitiesRepo\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\EntitiesRepo\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\lphan\\Documents\\Paul\u0027s Workspace\\My Project\\LTH-Store\\backend\\backend\\Repositories\\EntitiesRepo\\ProductRepo.cs",
+              "RelativeToolTip": "backend\\Repositories\\EntitiesRepo\\ProductRepo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:05:23.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
